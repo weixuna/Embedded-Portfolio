@@ -9,19 +9,6 @@
 
 https://github.com/user-attachments/assets/a6f50c56-88b1-4e97-b862-e0bbada11144
 
+## PCB 实物图
+<img width="1668" height="657" alt="fc6e8926677bf86d459fb0fb24bf6ac6" src="https://github.com/user-attachments/assets/aecdfb60-883d-49c2-a7c2-e01d9dbaa591" />
 
-## 项目简介
-
-一款集骑行数据、GNSS 导航、离线地图、语音交互和无线通信于一体的智能骑行终端。
-
-## 技术栈
-
-ESP32-P4 · ESP32-C5 · ESP-IDF · FreeRTOS · LVGL · BLE · Wi-Fi
-
-## 核心功能
-
-- 骑行数据
-- GNSS 导航 / 离线地图
-- BLE / Wi-Fi 通信
-- 语音交互
-- 微信小程序
