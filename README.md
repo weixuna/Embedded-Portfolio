@@ -3,6 +3,7 @@
 > 全国大学生嵌入式芯片与系统设计竞赛 · 全国一等奖
 
 ## 作品成果
+<img width="1621" height="1280" alt="23aa6d7d4d47afd9742b80e187bf9782" src="https://github.com/user-attachments/assets/61c4032d-3d14-4e2f-879e-0d4e1bc33961" />
 
 [这里放最大的成品图]
 
