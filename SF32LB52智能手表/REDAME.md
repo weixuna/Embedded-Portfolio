@@ -1,4 +1,4 @@
-# ⌚ 基于 SF32LB52 的智能手表终端
+# ⌚ 基于 SF32LB52 的 Claw Badge
 
 ## 作品实物图
 <img width="2275" height="1279" alt="f1c5eda9404a06c582382819029320d1" src="https://github.com/user-attachments/assets/f6ccbe8d-03fb-4cfd-9af8-74e83214f892" />
